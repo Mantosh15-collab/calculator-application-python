@@ -11,4 +11,4 @@ A simple Python calculator that performs basic arithmetic operations like additi
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/calculator-application-python.git
+git clone https://github.com/Mantosh15-collab/calculator-application-python.git
